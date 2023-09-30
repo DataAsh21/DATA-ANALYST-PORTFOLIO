@@ -14,51 +14,29 @@ I'm a data enthusiast with a passion for turning numbers into insights. Seeking 
 
 ## 👩‍💼 Work Experience
 
-### Data Analyst Intern at CoachX.Live
+| **Job Title**            | **Company**       | **Duration**          | **Responsibilities**                                                                      |
+|--------------------------|-------------------|-----------------------|---------------------------------------------------------------------------------------------|
+| Data Analyst Intern      | CoachX.Live       | Jan 20XX - Present    | - Developed effective Power BI reports and dashboards based on end-user requirements. 📊📈📉 |
+|                          |                   |                       | - Created visually appealing presentations, graphs, and dashboards. 🖼️                        |
+|                          |                   |                       | - Proficient in creating calculated measures and columns with DAX in MS Power BI Desktop. 📊 |
+|                          |                   |                       | - Expert in advanced calculations and custom visuals. 🧮                                       |
+|                          |                   |                       | - Utilized various data sources and connected them to Power BI. 📊📈                           |
+|                          |                   |                       | - Created interactive visual reports, dashboards, and KPI scorecards. 📈📊📉                  |
+|                          |                   |                       | - Conducted data cleaning and performed ETL operations using Power Query in MS Excel. 🧹   |
+|                          |                   |                       | - Demonstrated proficiency in utilizing bookmarks, sync slicers, filters, and drill-through filters. 📂🔍 |
+|                          |                   |                       | - Extracted data from different sources and generated interactive business reports in domains such as sales and retail, and supply chains. 📊🏬🔗 |
+| WordPress CMS Developer  | Company Name      | Jun 20XX - Dec 20XX  | - Managed and maintained multiple WordPress websites, ensuring functionality, security, and content updates. 🌐🛡️ |
+|                          |                   |                       | - Developed and implemented website design and layout changes to enhance user experience and engagement. 🎨🌟 |
+|                          |                   |                       | - Worked with website analytics and SEO tools to optimize website performance and visibility. 📊📈🔍 |
+|                          |                   |                       | - Collaborated with internal teams and external vendors to ensure website development and maintenance projects are completed on time and within budget. 🤝💼 |
+|                          |                   |                       | - Utilized various plugins and themes to enhance website functionality and design. 🧩✨ |
+|                          |                   |                       | - Managed website hosting and server issues to ensure website uptime and security. 🌐🔒 |
+| Operation Executive      | Another Company   | Jan 20XX - May 20XX  | - Responded to customer inquiries and complaints via phone, email, and chat. 📞✉️💬 |
+|                          |                   |                       | - Managed support tickets and prioritized them based on urgency and complexity. 🎫📊 |
+|                          |                   |                       | - Analyzed customer feedback to identify improvement opportunities. 🔍📈📝 |
+|                          |                   |                       | - Collaborated with cross-functional teams to resolve customer issues. 🤝🛠️ |
+|                          |                   |                       | - Provided product support and guided customers through troubleshooting. 📚💡 |
 
-🔍 Developed effective Power BI reports and dashboards based on end-user requirements.
-
-📊 Created visually appealing presentations, graphs, and dashboards.
-
-📈 Proficient in creating calculated measures and columns with DAX in MS Power BI Desktop.
-
-📉 Expert in advanced calculations and custom visuals.
-
-🔌 Utilized various data sources and connected them to Power BI.
-
-📈 Created interactive visual reports, dashboards, and KPI scorecards.
-
-🧹 Conducted data cleaning and performed ETL operations using Power Query in MS Excel.
-
-🎯 Demonstrated proficiency in utilizing bookmarks, sync slicers, filters, and drill-through filters.
-
-📊 Extracted data from different sources and generated interactive business reports in domains such as sales, retail, and supply chains.
-
-### WordPress CMS Developer
-
-🌐 Managed and maintained multiple WordPress websites, ensuring functionality, security, and content updates.
-
-🎨 Developed and implemented website design and layout changes to enhance user experience and engagement.
-
-📈 Worked with website analytics and SEO tools to optimize website performance and visibility.
-
-🤝 Collaborated with internal teams and external vendors to ensure website development and maintenance projects are completed on time and within budget.
-
-🧩 Utilized various plugins and themes to enhance website functionality and design.
-
-🚀 Managed website hosting and server issues to ensure website uptime and security.
-
-### Operation Executive
-
-💬 Responded to customer inquiries and complaints via phone, email, and chat.
-
-🎫 Managed support tickets and prioritized them based on urgency and complexity.
-
-🔍 Analyzed customer feedback to identify improvement opportunities.
-
-🤝 Collaborated with cross-functional teams to resolve customer issues.
-
-📚 Provided product support and guided customers through troubleshooting.
 
 ## 🚀 Skills
 
